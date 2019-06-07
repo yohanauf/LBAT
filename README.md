@@ -29,7 +29,7 @@ $ npx serve __sapper__/export
 
 ## Full documentation
 
-[Sapper]([https://sapper.svelte.dev/](https://sapper.svelte.dev/)
+[Sapper](https://sapper.svelte.dev/)
 
 [Svelte](https://svelte.dev/)
 
