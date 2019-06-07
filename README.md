@@ -1,2 +1,3 @@
-# LBAT
-la boite à teucha
+# La boite à teucha
+
+## Setup

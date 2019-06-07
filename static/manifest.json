@@ -1,0 +1,20 @@
+{
+	"background_color": "#ffffff",
+	"theme_color": "#333333",
+	"name": "La boite a teucha",
+	"short_name": "LBAT",
+	"display": "minimal-ui",
+	"start_url": "/",
+	"icons": [
+		{
+			"src": "iconfinder_cat_clean_192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "iconfinder_cat_clean_512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
